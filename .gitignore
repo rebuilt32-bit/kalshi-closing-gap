@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/closing_gap_*.json
+.DS_Store
